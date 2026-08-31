@@ -1,0 +1,59 @@
+{
+    "affection_sociability": [
+        "affectionate",
+        "friendly",
+        "devoted",
+        "amiable",
+        "good-natured",
+        "outgoing",
+        "happy",
+        "merry",
+        "charming"
+    ],
+    "energy_activity": [
+        "energetic",
+        "athletic",
+        "lively",
+        "spirited",
+        "active",
+        "agile"
+    ],
+    "trainability": [
+        "intelligent",
+        "smart",
+        "clever",
+        "eager to please",
+        "work-focused"
+    ],
+    "playfulness": [
+        "playful",
+        "mischievous",
+        "curious"
+    ],
+    "protectiveness": [
+        "protective",
+        "alert",
+        "courageous",
+        "fearless"
+    ],
+    "independence": [
+        "independent",
+        "aloof",
+        "reserved",
+        "tenacious"
+    ],
+    "calm_stability": [
+        "calm",
+        "gentle",
+        "docile",
+        "patient",
+        "even-tempered",
+        "adaptable"
+    ],
+    "confidence_resilience": [
+        "confident",
+        "hardy",
+        "optimistic",
+        "dignified"
+    ]
+}
